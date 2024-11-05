@@ -14,6 +14,16 @@
     <a href="2_data_type.php">data types</a>
     <br>
     <a href="3_operators.php">operators</a>
+    <br>
+    <a href="4_control_flow.php">control flow</a>
+    <br>
+    <a href="5_looping.php">looping</a>
+    <br>
+    <a href="6_function.php">function</a>
+    <br>
+    <a href="7_array.php">array</a>
+    <br>
+    <a href="7.1_exe1.php">exercise 1</a>
 </body>
 
 </html>
